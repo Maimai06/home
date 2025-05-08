@@ -2,9 +2,7 @@
 
 <p><strong><h2>个人主页</h2></strong></p>
 
-> fork 李宗霖的repo [Fork](https://github.com/supine0703/home) 进行开发的个人主页。感谢`imsyy`大佬！  
-> 基于 [imsyy/home v4.1.4](https://github.com/imsyy/home) 进行开发的个人主页。感谢`imsyy`大佬！  
-> `imsyy/home`在移动端上适配不那么理想，我进行了优化并且添加了一些功能。
+> fork 李宗霖的repo [Fork](https://github.com/supine0703/home) 进行修改的个人主页。感谢`李宗霖`大佬！  
 
 ![](./docs/imgs/imlzl.png)
 
